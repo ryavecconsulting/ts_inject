@@ -1,6 +1,7 @@
 {
   "name": "ts-inject",
   "version": "0.1.0",
+  "main": "Injector.ts",
   "description": "TypeScript injector",
   "author": "Matt Ryavec",
   "license": "MIT"
